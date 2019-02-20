@@ -1,0 +1,5 @@
+1.- mkdir  fotos 
+
+2.- mkdir "mis fotos"
+
+3
