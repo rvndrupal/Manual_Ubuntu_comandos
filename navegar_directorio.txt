@@ -9,3 +9,9 @@
 5.- ls -lhSr  --> es la inversa
 
 6.- ls -lt  -->ordena por la fecha
+
+7.- ls  -ltr  --> se pueden  combinar
+
+8.- ls -la  --> Muestra los archivos ocultos.
+
+9.- cd ../../musica  -->regresate dos y entra a musica
