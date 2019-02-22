@@ -1,0 +1,10 @@
+1.-Normal
+
+Apagar -> poweroff
+
+Apagar ->  shutdown -h now
+
+Reiniciar --> shutdown -r now
+
+
+

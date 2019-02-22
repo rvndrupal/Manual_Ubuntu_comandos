@@ -1,0 +1,7 @@
+1.-Donde estas ->pwd
+
+2.-touch archivo.txt --> Crea archivos.
+
+3.-ls -a  -->muestra todo incluso ocultos
+
+4.-ls -al  --> Ocultos y su información.
