@@ -1,0 +1,4 @@
+1.- more  instalados.txt  -->Muestra el contenido de los archivos.
+
+2.-less  instalados.txt  --> se pued emover con el mouse.
+

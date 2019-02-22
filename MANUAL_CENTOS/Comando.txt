@@ -5,3 +5,47 @@
 3.-ls -a  -->muestra todo incluso ocultos
 
 4.-ls -al  --> Ocultos y su información.
+
+5.- mkdir dir1  -->Crea los directorios.
+
+6.- mkdir dir1/documentos
+
+7.-mkdir -p dir1/dir2/dir3/dir4  ->Los crea aunque no existan.
+
+8.- ls -lR  ->Recorrido recursivo muestra todo los que tiene el directorio.
+
+9.- rm -r -->Borra las carpetas y archivos.
+
+10.- cp archivo.txt  archivo2.txt
+
+11.-cp archivo.text dir2/
+
+12.-mv archivo1.txt  archivo2.txt  Lo renombra.
+
+13.-mv prueba1.txt /home/rodrigo/Escritorio/rodrigo
+
+14.-cat > nombres   -->Espera que pongamos texto
+
+para terminar ctrl+c 
+
+cat nombres  --> nos muestra los de nombres.
+
+15.-wc -l nombres  --> Contador de Caracteres.
+
+16.-sort prueba1.txt  ->Ordena los elementos.
+
+17.- grep jose nombres -->Buscra en el archivo la palabra jose
+
+18.-grep -i jose nombres  --> busca jose pero ignora mayusculas o´minusculas
+
+19.-head -n 2 nombres -->Muestra el numero de lineas en este caso son 2
+
+20.-tail -n 1 nombres  -->Muestra las ultimas lineas.
+
+tail -n 2 nombre | grep -i jose -->Muestrame los ultimos dos y busca a jose
+
+21.-history  -->historial de comandos.
+
+22.- history | less  -->para moverme en el archivo.
+
+
